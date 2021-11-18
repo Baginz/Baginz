@@ -9,16 +9,9 @@
 
 ### 🤔 Where can you find me?
 
-My email: baginsqt@gmail.com, 
-
-or you can just send me a message in telegram:
-
-<a href="http://t.me/Bagins">
-  <img align="left" alt="Vitaly | Telegram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
-</a>
-
-
-
+[<img src="Linkedin.svg">]()
+[<img src="telegram.svg">](https://t.me/Bagins)
+[<img src="gmail.svg" width="90px" height="90px">](mailto:baginsqt@gmail.com)
 <br />
 
 ### ⚡️ My Technology stack:
