@@ -1,4 +1,4 @@
-## Hi there !  I'm Vitaly and I'am a Junior Frontend Developer from Yaroslavl!
+## Hi there !  I'm Vitaly a Junior Frontend Developer from Yaroslavl!
 
 * 🤟 I like to write code!
 * 😊 I'm responsible, motivated, easy-to-learn React Frontend Developer open to work now.
