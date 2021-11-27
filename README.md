@@ -8,7 +8,7 @@
 
 ### 🤔 Where can you find me?
 
-[<img src="Linkedin.svg">]()
+<!-- [<img src="Linkedin.svg">]() -->
 [<img src="telegram.svg">](https://t.me/Bagins)
 [<img src="gmail.svg" width="90px" height="90px">](mailto:baginsqt@gmail.com)
 <br />
