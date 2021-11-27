@@ -40,7 +40,7 @@ Common:
 
 https://github.com/Baginz
 
-##CodeWars Profile:
+## CodeWars Profile:
 
 [![CodeWars](https://img.shields.io/badge/-CodeWars-333?logo=CodeWars&style=for-the-badge)](https://www.codewars.com/users/Baginz)
 
