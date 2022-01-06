@@ -1,19 +1,18 @@
 ## Hi there!  I'm Vitaly a Junior Frontend Developer from Yaroslavl!
 
-* 🤟 I like to write code!
-* 😊 I'm responsible, motivated, easy-to-learn React Frontend Developer open to work now.
-* 😍 I like programming because it's interesting for me to create something, to make user interface live and friendly.
-* 🌱 I am currently looking for a job as a Front-end developer.
-* 👯 I will be glad to share my experience and learn from other developers.
+* I'm responsible, motivated, easy-to-learn React Frontend Developer open to work now.
+* I like programming because it's interesting for me to create something, to make user interface live and friendly.
+* I am currently looking for a job as a Front-end developer.
+* I will be glad to share my experience and learn from other developers.
 
-### 🤔 Where can you find me?
+## Where can you find me?
 
 <!-- [<img src="Linkedin.svg">]() -->
 [<img src="telegram.svg">](https://t.me/Bagins)
 [<img src="gmail.svg" width="90px" height="90px">](mailto:baginsqt@gmail.com)
 <br />
 
-### ⚡️ My Technology stack:
+## My Technology stack:
 
 Front-end: 
 [![Java Script](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/) &nbsp;
@@ -32,11 +31,12 @@ Common:
 [![Material-UI](https://img.shields.io/badge/-materialui-1572B6?logo=Material-UI&style=for-the-badge)](https://material-ui.com/ru/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-f9fbfa?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/)
 
-## 🌱 I’m currently learning:
+## I’m currently learning:
 
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-## 📈 My current project:
+## My current project:
 
 https://github.com/Baginz
 
