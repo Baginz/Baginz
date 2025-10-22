@@ -1,6 +1,8 @@
 ## Hi there!  I'm Vitaly a Devops from Yaroslavl!
 
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/baginz)  [My GitLab](https://gitlab.com/baginz) 
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/baginz)
+
+[My GitLab](https://gitlab.com/baginz) 
 
 ## Where can you find me?
 
