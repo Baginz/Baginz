@@ -1,9 +1,4 @@
-## Hi there!  I'm Vitaly a Junior Web Developer from Yaroslavl!
-
-* I'm responsible, motivated, easy-to-learn Developer open to work now.
-* I like programming because it's interesting for me to create something, to make user interface live and friendly.
-* I am currently looking for a job as a Web developer.
-* I will be glad to share my experience and learn from other developers.
+## Hi there!  I'm Vitaly a Devops from Yaroslavl!
 
 ## Where can you find me?
 
